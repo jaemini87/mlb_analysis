@@ -51,7 +51,7 @@ slope_mode_cases = [\
 	[14,4],\
 	[15,4]
 
-
+This is Self Test
 
 def slope(slope_0,slope_1,info_a,info_b,mode,answer):
 	s00 = slope_0[0]
